@@ -1,5 +1,8 @@
 # Extração de Licitações Goiás
 
+Projeto final da disciplina de Extração Automática de Dados (EAD) do curso de pós-graduação da UFG em Sistemas e Agentes Inteligentes. 
+Desenvolvido por Guilherme Lemes, Raphael Rodrigues e Thiago Santos.
+
 Este projeto realiza a extração, estruturação e análise de dados de licitações públicas do estado de Goiás, utilizando dados do Diário Oficial do Estado (DOE-GO) e da API do PNCP (Portal Nacional de Contratações Públicas). A aplicação realiza scraping, processamento com LLM (OpenAI), consulta à API, geração de relatórios HTML e gráficos de insights.
 
 # Engenharia de Dados:
