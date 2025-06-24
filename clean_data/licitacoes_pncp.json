@@ -1,0 +1,1352 @@
+[
+    {
+        "objetoCompra": "Chamamento Público para Credenciamento de Leiloeiro(a) Oficial para a realização de possíveis leilões nas modalidades presencial, online/virtual ou presencial e online/virtual simultaneamente, mediante demanda, destinados ao desfazimento de bens móveis/imóveis de propriedade Conselho Regional de Contabilidade do Estado de Goiás, conforme especificado no Termo de Referência.",
+        "amparoLegal": {
+            "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+            "nome": "Lei 14.133/2021, Art. 79, I",
+            "codigo": 140
+        },
+        "dataAberturaProposta": "2024-06-25T12:00:00",
+        "dataEncerramentoProposta": "2025-06-25T12:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01015676000111",
+            "razaoSocial": "CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "926864",
+            "nomeUnidade": "CONSELHO REGIONAL DE CONTABILIDADE - GO",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01015676000111-1-000008/2025",
+        "valorTotalEstimado": 0.0,
+        "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+        "modalidadeNome": "Credenciamento"
+    },
+    {
+        "objetoCompra": "CREDENCIAMENTO DE PRESTAÇÃO DE SERVIÇO EM NEUROLOGIA CLINICA PARA ATENDER AS DEMANDA DO FUNDO MUNICIPAL DE SAÚDE DE APARECIDA DO RIO DOCE-GO",
+        "amparoLegal": {
+            "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+            "nome": "Lei 14.133/2021, Art. 79, I",
+            "codigo": 140
+        },
+        "dataAberturaProposta": "2024-06-27T07:30:00",
+        "dataEncerramentoProposta": "2025-06-27T14:05:57",
+        "orgaoEntidade": {
+            "cnpj": "24859316000100",
+            "razaoSocial": "MUNICIPIO DE APARECIDA DO RIO DOCE"
+        },
+        "anoCompra": 2024,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "15",
+            "nomeUnidade": "FMS",
+            "ufSigla": "GO",
+            "municipioNome": "Aparecida do Rio Doce",
+            "codigoIbge": "5201454"
+        },
+        "numeroControlePNCP": "24859316000100-1-000203/2024",
+        "valorTotalEstimado": 30000.0,
+        "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+        "modalidadeNome": "Credenciamento"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE EMPRESA PARA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTE ESCOLAR, GRATUITO, DE ALUNOS DA REDE PÚBLICA MUNICIPAL, DENTRO DA CIRCUNSCRIÇÃO DO MUNICÍPIO DE JOVIÂNIA/GO, ZONA URBANA E RURAL, POR KM",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: nos casos de emergência ou de calamidade pública, quando caracterizada urgência de atendimento de situação que possa ocasionar prejuízo ou comprometer a continuidade dos serviços públicos ou a segurança de pessoas, obras, serviços, equipamentos e outros bens, públicos ou particulares, e somente para aquisição dos bens necessários ao atendimento da situação emergencial ou calamitosa e para as parcelas de obras e serviços que possam ser concluídas no prazo máximo de 1 (um) ano, contado da data de ocorrência da emergência ou da calamidade, vedadas a prorrogação dos respectivos contratos e a recontratação de empresa já contratada com base no disposto neste inciso",
+            "nome": "Lei 14.133/2021, Art. 75, VIII",
+            "codigo": 38
+        },
+        "dataAberturaProposta": "2025-01-24T00:00:00",
+        "dataEncerramentoProposta": "2025-06-30T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02029957000196",
+            "razaoSocial": "MUNICIPIO DE JOVIANIA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "13",
+            "nomeUnidade": "FUNDO MUNICIPAL DE EDUCAÇÃO",
+            "ufSigla": "GO",
+            "municipioNome": "Joviânia",
+            "codigoIbge": "5212105"
+        },
+        "numeroControlePNCP": "02029957000196-1-000034/2025",
+        "valorTotalEstimado": 820820.0,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE FONOÁUDIÓLOGO",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-03-12T00:00:00",
+        "dataEncerramentoProposta": "2025-06-30T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02029957000196",
+            "razaoSocial": "MUNICIPIO DE JOVIANIA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "13",
+            "nomeUnidade": "FUNDO MUNICIPAL DE EDUCAÇÃO",
+            "ufSigla": "GO",
+            "municipioNome": "Joviânia",
+            "codigoIbge": "5212105"
+        },
+        "numeroControlePNCP": "02029957000196-1-000093/2025",
+        "valorTotalEstimado": 7500.0,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE 01 PSICÓLOGO 40HORAS",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-03-17T00:00:00",
+        "dataEncerramentoProposta": "2025-06-30T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02029957000196",
+            "razaoSocial": "MUNICIPIO DE JOVIANIA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "13",
+            "nomeUnidade": "FUNDO MUNICIPAL DE EDUCAÇÃO",
+            "ufSigla": "GO",
+            "municipioNome": "Joviânia",
+            "codigoIbge": "5212105"
+        },
+        "numeroControlePNCP": "02029957000196-1-000099/2025",
+        "valorTotalEstimado": 10500.0,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "Retificação do Edital de Chamamento Público n.º 04/2024, que tem como objeto o credenciamento de leiloeiro(a) oficial para eventual realização de leilões nas modalidades presencial, online/virtual ou presencial e online/virtual simultaneamente, mediante demanda, destinados ao desfazimento de bens móveis/imóveis de propriedade Conselho Regional de Contabilidade do Estado de Goiás – CRC/GO.",
+        "amparoLegal": {
+            "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+            "nome": "Lei 14.133/2021, Art. 79, I",
+            "codigo": 140
+        },
+        "dataAberturaProposta": "2025-03-24T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T18:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01015676000111",
+            "razaoSocial": "CONSELHO REGIONAL DE CONTABILIDADE DO ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "926864",
+            "nomeUnidade": "CONSELHO REGIONAL DE CONTABILIDADE - GO",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01015676000111-1-000027/2025",
+        "valorTotalEstimado": 0.0,
+        "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+        "modalidadeNome": "Credenciamento"
+    },
+    {
+        "objetoCompra": " CONTRATAÇÃO DE 01 PSICÓLOGO 20 HORAS",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-03-07T00:00:00",
+        "dataEncerramentoProposta": "2025-06-30T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02029957000196",
+            "razaoSocial": "MUNICIPIO DE JOVIANIA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "13",
+            "nomeUnidade": "FUNDO MUNICIPAL DE EDUCAÇÃO",
+            "ufSigla": "GO",
+            "municipioNome": "Joviânia",
+            "codigoIbge": "5212105"
+        },
+        "numeroControlePNCP": "02029957000196-1-000132/2025",
+        "valorTotalEstimado": 8400.0,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO PARA EXECUÇÃO DA CONSTRUÇÃO DE UMA CRECHE MODELO FNDE, PRO-INFÂNCIA - TIPO 1, DO PROGRAMA 2629820240011, CONFORME PROPOSTA NOVO PAC (PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO) - Nº 003646/2024 E RECURSOS PRÓPRIOS DO MUNICÍPIO, NO SETOR ALDEIA DO VALE, NO MUNICÍPIO DE CERES-GO.",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-05-15T08:00:00",
+        "dataEncerramentoProposta": "2025-06-26T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01131713000157",
+            "razaoSocial": "MUNICIPIO DE CERES"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "0206",
+            "nomeUnidade": "EDUCACAO",
+            "ufSigla": "GO",
+            "municipioNome": "Ceres",
+            "codigoIbge": "5205406"
+        },
+        "numeroControlePNCP": "01131713000157-1-000053/2025",
+        "valorTotalEstimado": 5361058.01,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "Contratação de serviços para construção de pontes sobre o Córrego Fundo, sobre o Córrego do Saco e sobre o Córrego Cristalino, conforme demanda da Secretaria Municipal de Obras, Serviços Públicos, Habitação e Urbanismo de Ouvidor.",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-04-17T00:00:00",
+        "dataEncerramentoProposta": "2025-06-27T08:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01131010000129",
+            "razaoSocial": "MUNICIPIO DE OUVIDOR"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "1",
+            "nomeUnidade": "MUNICIPIO DE OUVIDOR",
+            "ufSigla": "GO",
+            "municipioNome": "Ouvidor",
+            "codigoIbge": "5215504"
+        },
+        "numeroControlePNCP": "01131010000129-1-000019/2025",
+        "valorTotalEstimado": 905535.49,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "PRESTAÇÃO DE SERVIÇOS ESPECIALIZADOS EM TOPOGRAFIA, DESMEMBRAMENTO E LEVANTAMENTO TOPOGRÁFICO PARA AS VIAS PÚBLICAS DO MUNICÍPIO.",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores",
+            "nome": "Lei 14.133/2021, Art. 75, I",
+            "codigo": 18
+        },
+        "dataAberturaProposta": "2025-03-15T00:00:00",
+        "dataEncerramentoProposta": "2025-06-30T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02029957000196",
+            "razaoSocial": "MUNICIPIO DE JOVIANIA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "3",
+            "nomeUnidade": "PREFEITURA MUNICIPAL DE JOVIANIA",
+            "ufSigla": "GO",
+            "municipioNome": "Joviânia",
+            "codigoIbge": "5212105"
+        },
+        "numeroControlePNCP": "02029957000196-1-000172/2025",
+        "valorTotalEstimado": 17000.0,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "A CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA PRESTAÇÃO DE SERVIÇO TÉCNICOS ESPECIALIZADOS RELATIVOS À SUPERVISÃO DE OBRAS E AMBIENTAL REFERENTES AO PROGRAMA DE REESTRUTURAÇÃO URBANA DA BACIA DO RIBEIRÃO SANTO ANTÔNIO DE APARECIDA DE GOIÂNIA II ? CAF/PMAP, A SER EXECUTADO EM DIVERSOS SETORES DO MUNICÍPIO DE APARECIDA DE GOIÂNIA.",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-06-26T09:00:00",
+        "dataEncerramentoProposta": "2025-06-26T09:15:00",
+        "orgaoEntidade": {
+            "cnpj": "01005727000124",
+            "razaoSocial": "MUNICIPIO DE APARECIDA DE GOIANIA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "0348",
+            "nomeUnidade": "SECRETARIA MUNICIPAL DE INFRAESTRUTURA",
+            "ufSigla": "GO",
+            "municipioNome": "Aparecida de Goiânia",
+            "codigoIbge": "5201405"
+        },
+        "numeroControlePNCP": "01005727000124-1-000026/2025",
+        "valorTotalEstimado": 2039396.76,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Presencial"
+    },
+    {
+        "objetoCompra": "REGISTRO DE PREÇOS, PARA FUTURA E EVENTUAL, CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE LINK DEDICADO DE ACESSO À INTERNET, DE FORMA ESTIMADA, PARA ATENDIMENTO DAS NECESSIDADES DE TODOS OS CAMPI DA UNIRV, CONFORME SOLICITAÇÃO DO DEPARTAMENTO DE TECNOLOGIA DA INFORMAÇÃO DA UNIRV- UNIVERSIDADE DE RIO VERDE.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-05-08T00:00:00",
+        "dataEncerramentoProposta": "2025-06-27T08:29:00",
+        "orgaoEntidade": {
+            "cnpj": "01815216000178",
+            "razaoSocial": "FESURV - UNIVERSIDADE DE RIO VERDE"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "000000001",
+            "nomeUnidade": "RIO VERDE",
+            "ufSigla": "GO",
+            "municipioNome": "Rio Verde",
+            "codigoIbge": "5218805"
+        },
+        "numeroControlePNCP": "01815216000178-1-000105/2025",
+        "valorTotalEstimado": 362791.8,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "MATERIAIS PERMANENTES, EQUIPAMENTOS E UM VEÍCULO UTILITÁRIO COM ACESSIBILIDADE, DE RECURSOS DE UMA EMENDA DO MINISTÉRIO DA CIDADANIA, VISANDO ATENDER ÀS NECESSIDADES DA SECRETARIA MUNICIPAL DE ASSIS. SOCIAL, IGUALDADE RACIAL DE PROFESSOR JAMIL - SEC. MUN. DE ASSIS. SOCIAL.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-05T09:30:00",
+        "dataEncerramentoProposta": "2025-06-25T08:59:00",
+        "orgaoEntidade": {
+            "cnpj": "14662637000158",
+            "razaoSocial": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL DE PROFESSOR JAMIL"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "5",
+            "nomeUnidade": "FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL",
+            "ufSigla": "GO",
+            "municipioNome": "Professor Jamil",
+            "codigoIbge": "5218391"
+        },
+        "numeroControlePNCP": "14662637000158-1-000003/2025",
+        "valorTotalEstimado": 290938.25,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA PARA EXECUÇÃO REMANESCENTE DE OBRA PARA CONCLUSÃO DE ESCOLA INFANTIL PROINFÂNCIA TIPO B (CRECHE SETOR GUARANI)",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-05-19T09:00:00",
+        "dataEncerramentoProposta": "2025-06-25T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01743335000162",
+            "razaoSocial": "MUNICIPIO DE POSSE"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "10",
+            "nomeUnidade": "FMAS",
+            "ufSigla": "GO",
+            "municipioNome": "Posse",
+            "codigoIbge": "5218300"
+        },
+        "numeroControlePNCP": "01743335000162-1-000043/2025",
+        "valorTotalEstimado": 1297183.49,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "Contratação de empresa para fornecimento de hortifrutigranjeiro para preparação de refeições na cantina pública do Município de Santa Terezinha de Goiás/GO ",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-05-13T08:05:00",
+        "dataEncerramentoProposta": "2025-06-26T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01137116000130",
+            "razaoSocial": "MUNICIPIO DE SANTA TEREZINHA DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "003",
+            "nomeUnidade": "FUNDO MUNICIPAL DE EDUCAÇÃO",
+            "ufSigla": "GO",
+            "municipioNome": "Santa Terezinha de Goiás",
+            "codigoIbge": "5219704"
+        },
+        "numeroControlePNCP": "01137116000130-1-000018/2025",
+        "valorTotalEstimado": 297797.8,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM SERVIÇOS DE ENGENHARIA PARA EXECUÇÃO REMANESCENTE DE OBRA PARA CONCLUSÃO DE ESCOLA INFANTIL PROINFÂNCIA TIPO B (CRECHE SETOR GUARANI)",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-04-22T09:27:54",
+        "dataEncerramentoProposta": "2025-06-25T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01743335000162",
+            "razaoSocial": "MUNICIPIO DE POSSE"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "3",
+            "nomeUnidade": "PODER EXECUTIVO",
+            "ufSigla": "GO",
+            "municipioNome": "Posse",
+            "codigoIbge": "5218300"
+        },
+        "numeroControlePNCP": "01743335000162-1-000044/2025",
+        "valorTotalEstimado": 1297183.49,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "SOLICITAÇÃO PARA FUTURA AQUISIÇÃO PARCELADA DE MATERIAL E  EQUIPAMENTOS DE PROCESSAMENTOS E OUTROS PARA ATENDER AS NECESSIDADES DO MUNICIPIO DE RUBIATABA, T.I. ( SEC. DE ADMINISTRAÇÃO,CONTROLE INTERNO, COMISSAO DE LICITAÇÃO, RECURSOS HUMANOS, SE, DE JUVENTUDE, DESPORTO E LAZER, SEC. DE FINANÇAS ( COLETORIA E CONTABILIDADE, DEPARTAMENTO DE COMPRAS, JURÍDICO, DEPARTAMENTO DE ENGENHARIA, SUP. MUNICIPAL DE TRANSITO E CONSELHO TUTELAR E SECRETARIA DE COMUNICAÇÃO.. FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL, FUNDO MUNICIPAL DE MEIO AMBIENTE, FUNDO MUNICIPAL DE EDUCAÇAO E FUNDO MUNICIPAL DE SAUDE E MUNICIPIO DE RUBIATABA.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-12T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02382836000123",
+            "razaoSocial": "MUNICIPIO DE RUBIATABA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "10",
+            "nomeUnidade": "MUNICIPIO DE RUBIATABA",
+            "ufSigla": "GO",
+            "municipioNome": "Rubiataba",
+            "codigoIbge": "5218904"
+        },
+        "numeroControlePNCP": "02382836000123-1-000063/2025",
+        "valorTotalEstimado": 3771326.86,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "EXECUÇÃO DE PASSEIO PÚBLICO NO MUNICÍPIO DE RUBIATABA-GO.",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-06-11T08:00:00",
+        "dataEncerramentoProposta": "2025-06-26T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02382836000123",
+            "razaoSocial": "MUNICIPIO DE RUBIATABA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "10",
+            "nomeUnidade": "MUNICIPIO DE RUBIATABA",
+            "ufSigla": "GO",
+            "municipioNome": "Rubiataba",
+            "codigoIbge": "5218904"
+        },
+        "numeroControlePNCP": "02382836000123-1-000064/2025",
+        "valorTotalEstimado": 72719.8,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "[Portal de Compras Públicas] - EXECUÇÃO DE PASSEIO PÚBLICO NO MUNICÍPIO DE RUBIATABA-GO.",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-06-11T08:00:00",
+        "dataEncerramentoProposta": "2025-06-26T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02382836000123",
+            "razaoSocial": "MUNICIPIO DE RUBIATABA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "01",
+            "nomeUnidade": "Prefeitura Municipal de Rubiataba",
+            "ufSigla": "GO",
+            "municipioNome": "Rubiataba",
+            "codigoIbge": "5218904"
+        },
+        "numeroControlePNCP": "02382836000123-1-000065/2025",
+        "valorTotalEstimado": 72719.8,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "[Portal de Compras Públicas] - SOLICITAÇÃO PARA FUTURA AQUISIÇÃO PARCELADA DE MATERIAL E  EQUIPAMENTOS DE PROCESSAMENTOS E OUTROS PARA ATENDER AS NECESSIDADES DO MUNICIPIO DE RUBIATABA, T.I. ( SEC. DE ADMINISTRAÇÃO,CONTROLE INTERNO, COMISSAO DE LICITAÇÃO, RECURSOS HUMANOS, SE, DE JUVENTUDE, DESPORTO E LAZER, SEC. DE FINANÇAS ( COLETORIA E CONTABILIDADE, DEPARTAMENTO DE COMPRAS, JURÍDICO, DEPARTAMENTO DE ENGENHARIA, SUP. MUNICIPAL DE TRANSITO E CONSELHO TUTELAR E SECRETARIA DE COMUNICAÇÃO.. FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL, FUNDO MUNICIPAL DE MEIO AMBIENTE, FUNDO MUNICIPAL DE EDUCAÇAO E FUNDO MUNICIPAL DE SAUDE E MUNICIPIO DE RUBIATABA.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-12T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "02382836000123",
+            "razaoSocial": "MUNICIPIO DE RUBIATABA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "01",
+            "nomeUnidade": "Prefeitura Municipal de Rubiataba",
+            "ufSigla": "GO",
+            "municipioNome": "Rubiataba",
+            "codigoIbge": "5218904"
+        },
+        "numeroControlePNCP": "02382836000123-1-000066/2025",
+        "valorTotalEstimado": 3771284.23,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Contratação de serviços contínuos de terceirização de copeiragem, recepcionista, auxiliar de escritório, telefonista e motoristas, com fornecimento de mão de obra exclusiva, em atendimento às necessidades da Superintendência Regional da Polícia Federal em Goiás e em suas unidades descentralizadas.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-10T09:00:00",
+        "dataEncerramentoProposta": "2025-06-26T09:30:00",
+        "orgaoEntidade": {
+            "cnpj": "00394494000136",
+            "razaoSocial": "MINISTERIO DA JUSTICA E SEGURANCA PUBLICA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "200376",
+            "nomeUnidade": "SUPERINTENDENCIA REG.DEP.POLICIA FEDERAL- GO",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "00394494000136-1-000558/2025",
+        "valorTotalEstimado": 4571819.04,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "PROCEDIMENTO LICITATORIO PARA REFORMA E AMPLIAÇÃO DA FARMÁCIA MUNICIPAL",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-05-26T08:00:00",
+        "dataEncerramentoProposta": "2025-06-26T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "03587269000104",
+            "razaoSocial": "FUNDO MUNICIPAL DE SAUDE DE ANICUNS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "4",
+            "nomeUnidade": "FUNDO MUNICIPAL DE SAUDE",
+            "ufSigla": "GO",
+            "municipioNome": "Anicuns",
+            "codigoIbge": "5201306"
+        },
+        "numeroControlePNCP": "03587269000104-1-000022/2025",
+        "valorTotalEstimado": 145716.68,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "AQUISIÇÃO DE BANHEIRA DE BEBE COM TROCADOR E SUPORTE DOBRAVEL ERGONOMICA",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-05-26T16:45:00",
+        "dataEncerramentoProposta": "2025-06-29T17:00:00",
+        "orgaoEntidade": {
+            "cnpj": "11307015000113",
+            "razaoSocial": "FUNDO MUNICIPAL DE SAUDE DE SANTA BARBARA DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "13",
+            "nomeUnidade": "FUNDO MUL. DE SAÚDE DE SANTA BÁRBARA DE GOIÁS",
+            "ufSigla": "GO",
+            "municipioNome": "Santa Bárbara de Goiás",
+            "codigoIbge": "5219100"
+        },
+        "numeroControlePNCP": "11307015000113-1-000065/2025",
+        "valorTotalEstimado": 924.45,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "Aquisição de veículos Hatch.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-13T08:00:00",
+        "dataEncerramentoProposta": "2025-06-27T09:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "7",
+            "nomeUnidade": "DELEGACIA-GERAL DA POLÍCIA CIVIL",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01409580000138-1-001231/2025",
+        "valorTotalEstimado": 667806.44,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "FUTURA E EVENTUAL AQUISIÇÃO DE ÓLEO LUBRIFICANTE, GRAXA, FLUÍDO PARA FREIO, ARLA 32 (AGENTE REDUTOR LÍQUIDO AUTOMOTIVO), PNEUS, CÂMARAS DE AR, PROTETORES PARA CÂMARA DE AR, MANCHÕES, REMENDOS, ENTRE OUTROS EM ATENDIMENTO À SECRETARIA MUNICIPAL DE EDUCAÇÃO DE CALDAS NOVAS – GO",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-05-10T08:00:00",
+        "dataEncerramentoProposta": "2025-06-26T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01787506000155",
+            "razaoSocial": "MUNICIPIO DE CALDAS NOVAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "003",
+            "nomeUnidade": "FUNDO MUNICIPAL DE EDUCAÇÃO",
+            "ufSigla": "GO",
+            "municipioNome": "Caldas Novas",
+            "codigoIbge": "5204508"
+        },
+        "numeroControlePNCP": "01787506000155-1-000090/2025",
+        "valorTotalEstimado": 1000518.18,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Aquisição de condicionadores de ar.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-05-29T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T14:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "40",
+            "nomeUnidade": "MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01409580000138-1-001256/2025",
+        "valorTotalEstimado": 1747265.1,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "SOLICITAÇÃO DE AQUISIÇÃO DE MATERIAIS ELÉTRICOS PARA ATENDER AS NECESSIDADES DA 36° BATALHÃO DA PM DO MUNICÍPIO DE PADRE BERNARDO – GO.",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-06-23T10:00:00",
+        "dataEncerramentoProposta": "2025-06-26T10:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01170331000132",
+            "razaoSocial": "MUNICIPIO DE PADRE BERNARDO"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "3",
+            "nomeUnidade": "PREFEITURA MUNICIPAL DE PADRE BERNARDO",
+            "ufSigla": "GO",
+            "municipioNome": "Padre Bernardo",
+            "codigoIbge": "5215603"
+        },
+        "numeroControlePNCP": "01170331000132-1-000070/2025",
+        "valorTotalEstimado": 4808.56,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "Executar salas de aulas; executar cozinha com refeitório; executar banheiros masculino e feminino; executar quadra de esportes; pintura geral; instalações elétricas; entre outros.",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-06-02T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T09:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "166",
+            "nomeUnidade": "COORDENAÇÃO REGIONAL DE EDUCAÇÃO DE LUZIÂNIA",
+            "ufSigla": "GO",
+            "municipioNome": "Luziânia",
+            "codigoIbge": "5212501"
+        },
+        "numeroControlePNCP": "01409580000138-1-001277/2025",
+        "valorTotalEstimado": 4431066.25,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "PROCESSO PARA CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA A CONSTRUÇÃO DE CENTRO DE CONVIVÊNCIA, CONFORME PLANO DE TRABALHO DO CONVÊNIO Nº 936566 CELEBRADO ENTRE O MUNICÍPIO DE OURO VERDE DE GOIÁS E O MINISTÉRIO DO DESENVOLVIMENTO SOCIAL E COMBATE Á FOME, ATENDENDO AS NECESSIDADES DA SECRETAIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-06-02T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T08:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01485531000184",
+            "razaoSocial": "MUNICIPIO DE OURO VERDE DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "2",
+            "nomeUnidade": "MUNICIPIO DE OURO VERDE DE GOIÁS",
+            "ufSigla": "GO",
+            "municipioNome": "Ouro Verde de Goiás",
+            "codigoIbge": "5215405"
+        },
+        "numeroControlePNCP": "01485531000184-1-000049/2025",
+        "valorTotalEstimado": 454280.73,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "Registro de preços para futura e eventual locação de veículos de transporte de passageiros para atender a demanda do Município de Ouvidor para os próximos 12 (doze) meses.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-03T23:59:00",
+        "dataEncerramentoProposta": "2025-06-25T12:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01131010000129",
+            "razaoSocial": "MUNICIPIO DE OUVIDOR"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "1",
+            "nomeUnidade": "MUNICIPIO DE OUVIDOR",
+            "ufSigla": "GO",
+            "municipioNome": "Ouvidor",
+            "codigoIbge": "5215504"
+        },
+        "numeroControlePNCP": "01131010000129-1-000036/2025",
+        "valorTotalEstimado": 1338200.08,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE LEITES ESPECIAIS, PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE CAMPO LIMPO DE GOIÁS-GO, CONFORME TERMO DE REFERÊNCIA EM ANEXO",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-03T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T07:00:00",
+        "orgaoEntidade": {
+            "cnpj": "04216593000189",
+            "razaoSocial": "MUNICIPIO DE CAMPO LIMPO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "10",
+            "nomeUnidade": "SECRETARIA MUNICIPAL DE SAUDE",
+            "ufSigla": "GO",
+            "municipioNome": "Campo Limpo de Goiás",
+            "codigoIbge": "5204854"
+        },
+        "numeroControlePNCP": "04216593000189-1-000325/2025",
+        "valorTotalEstimado": 1189652.6,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL AQUISIÇÃO DE MEDICAMENTOS FARMACOLÓGICO DE DOAÇÃO, PARA ATENDER AS NECESSIDADES DA SECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO DE CAMPO LIMPO DE GOIÁS-GO, CONFORME TERMO DE REFERÊNCIA EM ANEXO DESTE EDITAL.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-03T08:00:00",
+        "dataEncerramentoProposta": "2025-06-26T07:00:00",
+        "orgaoEntidade": {
+            "cnpj": "04216593000189",
+            "razaoSocial": "MUNICIPIO DE CAMPO LIMPO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "10",
+            "nomeUnidade": "SECRETARIA MUNICIPAL DE SAUDE",
+            "ufSigla": "GO",
+            "municipioNome": "Campo Limpo de Goiás",
+            "codigoIbge": "5204854"
+        },
+        "numeroControlePNCP": "04216593000189-1-000326/2025",
+        "valorTotalEstimado": 2231532.42,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Contratação de pessoa jurídica especializada na prestação de serviço de execução, abertura, limpeza e manutenção de aceiros e estradas vicinais nas Unidades de Conservação da SEMAD",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-04T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T09:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "17",
+            "nomeUnidade": "SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01409580000138-1-001305/2025",
+        "valorTotalEstimado": 678143.0,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Locação de veículos de transporte de passageiros para atender a demanda do Município de Ouvidor.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-03T23:59:00",
+        "dataEncerramentoProposta": "2025-06-25T12:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01131010000129",
+            "razaoSocial": "MUNICIPIO DE OUVIDOR"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "1",
+            "nomeUnidade": "MUNICIPIO DE OUVIDOR",
+            "ufSigla": "GO",
+            "municipioNome": "Ouvidor",
+            "codigoIbge": "5215504"
+        },
+        "numeroControlePNCP": "01131010000129-1-000039/2025",
+        "valorTotalEstimado": 1338200.08,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "aquisição de cartões de proximidade e materiais/suprimentos para montagem de crachás, para uso no sistema de controle de acesso instalado no edifício sede do Ministério Público do Estado de Goiás e na identificação de integrantes",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-04T08:00:00",
+        "dataEncerramentoProposta": "2025-06-27T14:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "40",
+            "nomeUnidade": "MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01409580000138-1-001311/2025",
+        "valorTotalEstimado": 34620.0,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Contratação de empresa especializada para serviços de manutenção preventiva e corretiva, sem dedicação exclusiva de mão de obra, a serem realizados de forma continuada, no sistema de ar-condicionado central e nas 02 Self’s do auditório, ambos no Edifício-Sede do MPGO.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-04T08:00:00",
+        "dataEncerramentoProposta": "2025-06-26T14:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "40",
+            "nomeUnidade": "MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01409580000138-1-001313/2025",
+        "valorTotalEstimado": 419247.94,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Registro de Preços para aquisição futura e eventual de fórmulas, dietas e suplementos alimentares para atender às demandas da Secretaria Municipal de Saúde, visando à manutenção e recuperação do estado nutricional de pacientes da rede pública, por meio da prevenção e correção de deficiências nutricionais e do suporte alimentar em casos específicos.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-05T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "11254840000105",
+            "razaoSocial": "FUNDO MUNICIPAL DE SAUDE"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "1",
+            "nomeUnidade": "FUNDO MUNICIPAL DE SAÚDE DE ALEXÂNIA - GO",
+            "ufSigla": "GO",
+            "municipioNome": "Alexânia",
+            "codigoIbge": "5200308"
+        },
+        "numeroControlePNCP": "11254840000105-1-000005/2025",
+        "valorTotalEstimado": 1857717.4,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Registro de Preços para aquisição futura e eventual de fraldas descartáveis, visando atender às necessidades da Secretaria Municipal de Saúde no cuidado com pacientes da rede pública. ",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-05T08:00:00",
+        "dataEncerramentoProposta": "2025-06-27T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "11254840000105",
+            "razaoSocial": "FUNDO MUNICIPAL DE SAUDE"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "1",
+            "nomeUnidade": "FUNDO MUNICIPAL DE SAÚDE DE ALEXÂNIA - GO",
+            "ufSigla": "GO",
+            "municipioNome": "Alexânia",
+            "codigoIbge": "5200308"
+        },
+        "numeroControlePNCP": "11254840000105-1-000006/2025",
+        "valorTotalEstimado": 1244200.0,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Contratação de serviços de apoio às atividades administrativas, compreendendo atividades de almoxarifado, de serviços auxiliares diversos, de recepção, de portaria, de arquivo de prontuários médicos e documental, de secretária e de carregador de materiais, com fornecimento de mão obra com dedicação exclusiva.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-04T08:00:00",
+        "dataEncerramentoProposta": "2025-06-27T09:00:00",
+        "orgaoEntidade": {
+            "cnpj": "15126437000305",
+            "razaoSocial": "EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "155904",
+            "nomeUnidade": "HOSPITAL DAS CLINICAS DE GOIÁS",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "15126437000305-1-001025/2025",
+        "valorTotalEstimado": 0.0,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "[Portal de Compras Públicas] - REGISTRO DE PREÇOS PARA FUTURAS AQUISIÇÕES DE EQUIPAMENTOS DE PROTEÇÃO INDIVIDUAL (EPI) PARA OS PROFISSIONAIS DE LIMPEZA E MERENDAS DOS CMEI’S E UNIDADES ESCOLARES DA REDE MUNICIPAL DE ENSINO DE TRINDADE – GO.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-05T09:00:00",
+        "dataEncerramentoProposta": "2025-06-25T08:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01217538000115",
+            "razaoSocial": "MUNICIPIO DE TRINDADE"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "05",
+            "nomeUnidade": "Fundo Municipal de Educação - FME",
+            "ufSigla": "GO",
+            "municipioNome": "Trindade",
+            "codigoIbge": "5221403"
+        },
+        "numeroControlePNCP": "01217538000115-1-000110/2025",
+        "valorTotalEstimado": 270058.0,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "[Portal de Compras Públicas] - Substituição do piso do pavimento térreo do prédio da Escola Municipal João Justino de Oliveira – CAIC, com exclusão das áreas da cozinha e dos banheiros, por um piso em granitina.",
+        "amparoLegal": {
+            "descricao": "concorrência: modalidade de licitação para contratação de bens e serviços especiais e de obras e serviços comuns e especiais de engenharia",
+            "nome": "Lei 14.133/2021, Art. 28, II ",
+            "codigo": 2
+        },
+        "dataAberturaProposta": "2025-06-04T18:00:00",
+        "dataEncerramentoProposta": "2025-06-26T08:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01165729000180",
+            "razaoSocial": "MUNICIPIO DE JATAI"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "1",
+            "nomeUnidade": "Prefeitura Municipal de Jataí",
+            "ufSigla": "GO",
+            "municipioNome": "Jataí",
+            "codigoIbge": "5211909"
+        },
+        "numeroControlePNCP": "01165729000180-1-000158/2025",
+        "valorTotalEstimado": 123883.56,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Concorrência - Eletrônica"
+    },
+    {
+        "objetoCompra": "AQUISIÇÃO DE  MATERIAIS PARA MANUTENÇÃO DE BENS MÓVEIS,  PARA ATENDER O DEPARTAMENTO DE MANUTENÇÃO DA CÂMARA  DE RIO VERDE, CONFORME DOCUMENTOS ANEXOS.",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-05-27T00:00:00",
+        "dataEncerramentoProposta": "2025-06-29T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "25040627000105",
+            "razaoSocial": "CAMARA MUNICIPAL DE RIO VERDE"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "1",
+            "nomeUnidade": "CAMARA MUNICIPAL DE RIO VERDE",
+            "ufSigla": "GO",
+            "municipioNome": "Rio Verde",
+            "codigoIbge": "5218805"
+        },
+        "numeroControlePNCP": "25040627000105-1-000123/2025",
+        "valorTotalEstimado": 649.5,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "LOCAÇÃO DE CAMINHÃO PIPA EQUIPADO COM BOMBA DE RECALQUE.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-06T07:00:00",
+        "dataEncerramentoProposta": "2025-06-25T13:30:00",
+        "orgaoEntidade": {
+            "cnpj": "02394757000132",
+            "razaoSocial": "MUNICIPIO DE PALMEIRAS DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "22",
+            "nomeUnidade": "PREFEITURA DE PALMEIRAS DE GOIAS",
+            "ufSigla": "GO",
+            "municipioNome": "Palmeiras de Goiás",
+            "codigoIbge": "5215702"
+        },
+        "numeroControlePNCP": "02394757000132-1-000135/2025",
+        "valorTotalEstimado": 401070.72,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "[LICITANET] - Registro de Preços para a AQUISIÇÃO EVENTUAL, FUTURA E PARCELADA DE ADUELAS E MANILHAS EM GERAL, POSTE DE ALAMBRADOS E POSTES DE 10 METROS DUPLO T PARA ATENDIMENTO DAS DEMANDAS DA SECRETARIA MUNICIPAL DE TRANSPORTE, OBRAS, SERVIÇOS RURAIS E AGRICULTURA DO MUNICÍPIO.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-05T09:44:47",
+        "dataEncerramentoProposta": "2025-06-25T08:05:00",
+        "orgaoEntidade": {
+            "cnpj": "02056745000106",
+            "razaoSocial": "MUNICIPIO DE PARANAIGUARA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "2199",
+            "nomeUnidade": "MUNICÍPIO DE PARANAIGUARA/GO",
+            "ufSigla": "GO",
+            "municipioNome": "Paranaiguara",
+            "codigoIbge": "5216304"
+        },
+        "numeroControlePNCP": "02056745000106-1-000172/2025",
+        "valorTotalEstimado": 611352.25,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS NA ÁREA DE MÚSICA, PARA DISPONIBILIZAÇÃO DE PROFESSORES DE INSTRUMENTOS MUSICAIS, PARA A REALIZAÇÃO DE AULAS TEÓRICAS E PRÁTICAS DE MÚSICA EM INSTRUMENTOS COMO: VIOLÃO E VIOLA CAIPIRA, TECLADO E ACORDEON, SAXOFONE TROMPETE E FLAUTA DOCE, BATERIA, VIOLINO, CONFORME DEMANDA, COM VISTAS À IMPLEMENTAÇÃO DO PROJETO “TOCANDO EM FRENTE” VISANDO ATENDER OS USUÁRIOS DO SERVIÇO CONVIVÊNCIA E FOTALECIMENTO DE VÍNCULOS (SCFV), CONFORME ESPECIFICAÇÕES E QUANTIDADES ESTABELECIDAS NO TERMO DE REFERÊNCIA – ANEXO I, DO EDITAL",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-05T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T08:30:00",
+        "orgaoEntidade": {
+            "cnpj": "01788082000143",
+            "razaoSocial": "MUNICIPIO DE EDEIA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "14",
+            "nomeUnidade": "FUNDO MUNCIPAL DE ASSITENCIA SOCIAL",
+            "ufSigla": "GO",
+            "municipioNome": "Edeia",
+            "codigoIbge": "5207402"
+        },
+        "numeroControlePNCP": "01788082000143-1-000025/2025",
+        "valorTotalEstimado": 183166.55,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Presencial"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA NA PRESTAÇÃO DE SERVIÇOS DE SONDAGEM DE SOLO DO TIPO SPT (STANDARD PENETRATION TEST), A FIM DE SUPRIR A DEMANDA DA SECRETARIA MUNICIPAL DE AGRICULTURA, MEIO AMBIEN",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-06-25T00:00:00",
+        "dataEncerramentoProposta": "2025-06-27T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01179647000195",
+            "razaoSocial": "MUNICIPIO DE PIRACANJUBA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "56",
+            "nomeUnidade": "FUNDO MUNICIPAL DO MEIO AMBIENTE",
+            "ufSigla": "GO",
+            "municipioNome": "Piracanjuba",
+            "codigoIbge": "5217104"
+        },
+        "numeroControlePNCP": "01179647000195-1-000177/2025",
+        "valorTotalEstimado": 0.0,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "Fornecimento de óleo lubrificante para caixa de transmissão automática homologado pela ZF com projeção de consumo para 12 (doze) meses.",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-06T08:00:00",
+        "dataEncerramentoProposta": "2025-06-25T09:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "927830",
+            "nomeUnidade": "COMPANHIA METROP.DE TRANSP.COLETIVOS",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01409580000138-1-001346/2025",
+        "valorTotalEstimado": 0.0,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "Confecção de Chapas da articulação e quebra sol da Carroceria Megabrt Neobus 2011 e 2014, com projeção de consumo para 12 (doze) meses",
+        "amparoLegal": {
+            "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+            "nome": "Lei 14.133/2021, Art. 28, I",
+            "codigo": 1
+        },
+        "dataAberturaProposta": "2025-06-06T08:00:00",
+        "dataEncerramentoProposta": "2025-06-27T09:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01409580000138",
+            "razaoSocial": "ESTADO DE GOIAS"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "927830",
+            "nomeUnidade": "COMPANHIA METROP.DE TRANSP.COLETIVOS",
+            "ufSigla": "GO",
+            "municipioNome": "Goiânia",
+            "codigoIbge": "5208707"
+        },
+        "numeroControlePNCP": "01409580000138-1-001348/2025",
+        "valorTotalEstimado": 0.0,
+        "tipoInstrumentoConvocatorioNome": "Edital",
+        "modalidadeNome": "Pregão - Eletrônico"
+    },
+    {
+        "objetoCompra": "AQUISIÇAO DE COMPRESSOR DE AR CODICIONADO PARA A MANUTENÇAO DO VEICULO GM CHEVORLET ONIX PLUS  1.0 LTZ ALCOOL /GASOLINA, ANO E MODELO 2023. PLACA SCS-6G32, PARA ATENDER AS NECESSIDADES DA CAMARA MUNIC",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 100.000,00 (cem mil reais), no caso de obras e serviços de engenharia ou de serviços de manutenção de veículos automotores",
+            "nome": "Lei 14.133/2021, Art. 75, I",
+            "codigo": 18
+        },
+        "dataAberturaProposta": "2025-06-05T09:57:37",
+        "dataEncerramentoProposta": "2025-06-29T15:30:00",
+        "orgaoEntidade": {
+            "cnpj": "00163055000112",
+            "razaoSocial": "MUNICIPIO DE MUNDO NOVO"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "11",
+            "nomeUnidade": "CAMARA MUNICIPAL DE MUNDO NOVO",
+            "ufSigla": "GO",
+            "municipioNome": "Mundo Novo",
+            "codigoIbge": "5214051"
+        },
+        "numeroControlePNCP": "00163055000112-1-000105/2025",
+        "valorTotalEstimado": 2601.63,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    },
+    {
+        "objetoCompra": "CONTRATAÇÃO DE EMPRESA APTA NA PRESTAÇÃO DE SERVIÇOS DE LOCAÇÃO DE MAQUINÁRIO,  DO TIPO TRATOR DE ESTEIRA, COM OPERADOR, DEVIDAMENTE HABILITADO, A FIM DE SUPRIR A DEMANDA DA SECRETARIA MUNICIPAL DE AG",
+        "amparoLegal": {
+            "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+            "nome": "Lei 14.133/2021, Art. 75, II",
+            "codigo": 19
+        },
+        "dataAberturaProposta": "2025-06-24T00:00:00",
+        "dataEncerramentoProposta": "2025-06-26T00:00:00",
+        "orgaoEntidade": {
+            "cnpj": "01179647000195",
+            "razaoSocial": "MUNICIPIO DE PIRACANJUBA"
+        },
+        "anoCompra": 2025,
+        "unidadeOrgao": {
+            "ufNome": "Goiás",
+            "codigoUnidade": "56",
+            "nomeUnidade": "FUNDO MUNICIPAL DO MEIO AMBIENTE",
+            "ufSigla": "GO",
+            "municipioNome": "Piracanjuba",
+            "codigoIbge": "5217104"
+        },
+        "numeroControlePNCP": "01179647000195-1-000178/2025",
+        "valorTotalEstimado": 0.0,
+        "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+        "modalidadeNome": "Dispensa"
+    }
+]
