@@ -2,6 +2,10 @@
 
 Este projeto realiza a extração, estruturação e análise de dados de licitações públicas do estado de Goiás, utilizando dados do Diário Oficial do Estado (DOE-GO) e da API do PNCP (Portal Nacional de Contratações Públicas). A aplicação realiza scraping, processamento com LLM (OpenAI), consulta à API, geração de relatórios HTML e gráficos de insights.
 
+# Engenharia de Dados:
+- dados brutos armazenados na pasta **raw_data**;
+- dados tratados armazenados na pasta **clean_data**;
+
 ---
 
 ## Requisitos
@@ -11,6 +15,18 @@ Este projeto realiza a extração, estruturação e análise de dados de licita�
 - ChromeDriver compatível com a versão do Google Chrome instalada
 - Conta e chave de API da OpenAI (para uso do LLM)
 - Conexão com a internet para acesso ao Diário Oficial e API PNCP
+
+## Principais Bibliotecas utilizadas
+
+- **selenium**: Automação do navegador para scraping do Diário Oficial do Estado de Goiás.
+- **beautifulsoup4 (bs4)**: Parsing e extração de dados HTML.
+- **requests**: Realização de requisições HTTP para APIs e obtenção de dados.
+- **openai**: Integração com o modelo de linguagem da OpenAI para processamento e extração de dados.
+- **pandas**: Manipulação e organização dos dados para geração de relatórios.
+- **matplotlib** e **seaborn**: Geração de gráficos e visualizações dos dados.
+- **tqdm**: Barra de progresso para processamento dos dados.
+- **python-dotenv**: Carregamento de variáveis de ambiente, como a chave da API da OpenAI.
+- **datetime**, **json**, **os**, **re**: Utilitários padrão para manipulação de datas, arquivos e expressões regulares.
 
 ---
 
